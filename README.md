@@ -29,6 +29,8 @@
     <img src="https://user-images.githubusercontent.com/54014998/105456255-d7d22000-5caa-11eb-879e-776731015cf3.png" width="300" height="400">
   </td>
   </tr>
-  
- <!-- 
--->
+  </table>
+ 
+ ``` 
+ NOTE: App is soon live on play store 
+```
