@@ -1,5 +1,5 @@
 # Track Run Application Demo
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/54014998/105456233-d1dc3f00-5caa-11eb-9e80-e41ccf9b7c63.png" width="300" height="400">
